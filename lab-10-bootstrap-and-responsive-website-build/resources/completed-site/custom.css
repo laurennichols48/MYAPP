@@ -1,0 +1,60 @@
+:root {
+  --portfolio-accent: #315f59;
+  --portfolio-ink: #1f2a30;
+  --portfolio-paper: #f7f5ef;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--portfolio-ink);
+  background-color: var(--portfolio-paper);
+}
+
+.portfolio-navbar {
+  border-bottom: 3px solid var(--portfolio-accent);
+}
+
+.navbar-brand,
+.nav-link {
+  color: var(--portfolio-ink);
+}
+
+.nav-link.active,
+.nav-link:hover,
+.nav-link:focus {
+  color: var(--portfolio-accent);
+}
+
+.hero-title {
+  max-width: 760px;
+  font-size: clamp(2.5rem, 7vw, 5rem);
+  line-height: 1.02;
+}
+
+.eyebrow {
+  color: var(--portfolio-accent);
+  letter-spacing: .08em;
+}
+
+.btn-primary {
+  --bs-btn-bg: var(--portfolio-accent);
+  --bs-btn-border-color: var(--portfolio-accent);
+  --bs-btn-hover-bg: #244a45;
+  --bs-btn-hover-border-color: #244a45;
+}
+
+.project-card {
+  border-color: #b7c9c3;
+  transition: transform .15s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-3px);
+}
+
+.site-footer {
+  color: #41534e;
+  background-color: #e5ece9;
+  border-top: 1px solid #b7c9c3;
+}
