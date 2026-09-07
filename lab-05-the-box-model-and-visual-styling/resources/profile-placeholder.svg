@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="360" viewBox="0 0 500 360" role="img" aria-labelledby="t d">
+  <title id="t">Profile placeholder</title>
+  <desc id="d">Abstract portrait placeholder with a circular head and shoulders</desc>
+  <rect width="500" height="360" fill="#e8eef7"/>
+  <circle cx="250" cy="125" r="70" fill="#778da9"/>
+  <path d="M110 340c18-100 88-145 140-145s122 45 140 145" fill="#415a77"/>
+</svg>

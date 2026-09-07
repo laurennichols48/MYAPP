@@ -1,0 +1,37 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.site-header,
+main {
+  width: min(100% - 32px, 900px);
+  margin-inline: auto;
+}
+
+.site-header {
+  padding: 20px 0;
+}
+
+nav a {
+  display: flex;
+  margin-left: 42px;
+}
+
+.project-list {
+  position: relative;
+  min-height: 340px;
+}
+
+.project-card {
+  position: absolute;
+  width: 280px;
+  padding: 20px;
+  border: 1px solid #999;
+}
+
+.project-card:nth-child(1) { left: 0; }
+.project-card:nth-child(2) { left: 310px; }
+.project-card:nth-child(3) { left: 620px; }

@@ -1,0 +1,20 @@
+.card {
+  padding: 12px;
+  border: 1px solid gray;
+}
+
+#featured-card {
+  background-color: lightyellow;
+}
+
+a[target="_blank"] {
+  font-weight: bold;
+}
+
+h2 {
+  color: darkgreen;
+}
+
+.card p {
+  font-style: italic;
+}

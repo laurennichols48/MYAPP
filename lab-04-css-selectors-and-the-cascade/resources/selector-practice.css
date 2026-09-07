@@ -1,0 +1,15 @@
+p {
+  color: navy;
+}
+
+.notice {
+  background-color: lightyellow;
+}
+
+#featured {
+  border: 2px solid black;
+}
+
+a[target="_blank"] {
+  font-weight: bold;
+}

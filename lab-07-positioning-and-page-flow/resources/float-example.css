@@ -1,0 +1,25 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+main {
+  width: min(100% - 32px, 760px);
+  margin: 40px auto;
+}
+
+.photo {
+  float: left;
+  width: 180px;
+  height: 150px;
+  margin: 0 20px 10px 0;
+  background: linear-gradient(135deg, #b7d8a8, #3f704d);
+}
+
+.next-section {
+  clear: both;
+  padding-top: 24px;
+}

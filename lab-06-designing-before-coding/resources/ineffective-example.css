@@ -1,0 +1,61 @@
+body {
+  margin: 3px 70px 2px 11px;
+  font-family: "Times New Roman", serif;
+  color: yellow;
+  background: linear-gradient(90deg, red, purple, blue, green);
+}
+
+header,
+main,
+footer {
+  border: 8px dotted lime;
+}
+
+h1,
+h2,
+h3,
+p,
+a {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 54px;
+  letter-spacing: 8px;
+}
+
+h2 {
+  font-size: 48px;
+  background-color: black;
+}
+
+p {
+  font-size: 25px;
+  line-height: 1;
+}
+
+nav a {
+  display: inline-block;
+  margin: 2px 34px 18px 1px;
+  padding: 3px;
+  color: yellow;
+  background-color: darkblue;
+}
+
+section {
+  margin: 4px;
+  padding: 2px;
+  border: 5px dashed orange;
+}
+
+article {
+  margin-left: 40%;
+  width: 58%;
+  background-color: #222;
+}
+
+a {
+  color: cyan;
+}

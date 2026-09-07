@@ -1,0 +1,37 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  width: min(100% - 32px, 760px);
+  margin: 48px auto;
+}
+
+.project-list {
+  display: grid;
+  gap: 24px;
+}
+
+.project-card {
+  padding: 24px;
+  border: 1px solid #aaa;
+  background: #fff;
+}
+
+.featured-card {
+  position: relative;
+  border-color: #2f5e55;
+  padding-top: 52px;
+}
+
+.badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  padding: 6px 10px;
+  background: #2f5e55;
+  color: white;
+}

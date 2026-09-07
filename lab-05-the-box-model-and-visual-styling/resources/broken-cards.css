@@ -1,0 +1,44 @@
+body {
+  font-family: Arial;
+  color: #444;
+}
+
+main {
+  width: 700px;
+}
+
+.first-card {
+  width: 340px;
+  padding: 30px;
+  border: 4px solid #466;
+  margin: 8px;
+}
+
+.second-card {
+  width: 340px;
+  padding: 8px;
+  border: 1px solid #466;
+  margin: 35px;
+}
+
+.first-card img {
+  width: 320px;
+  height: 80px;
+}
+
+.second-card img {
+  width: 150px;
+  height: 250px;
+}
+
+.first-card p {
+  line-height: 1.2;
+}
+
+.second-card p {
+  line-height: 1.8;
+}
+
+footer {
+  border-top: 1px solid #aaa;
+}

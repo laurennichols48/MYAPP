@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  padding: 24px;
+}
+
+.measurement-box {
+  width: 240px;
+  padding: 20px;
+  border: 5px solid #2f6f8f;
+  margin: 30px;
+  background-color: #dff3ff;
+}
+
+.neighbor-box {
+  width: 240px;
+  padding: 12px;
+  border: 1px dashed #777;
+  background-color: #f3f3f3;
+}

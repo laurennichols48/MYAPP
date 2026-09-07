@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="t d">
+  <title id="t">Project chart placeholder</title>
+  <desc id="d">Three rising bars and a line representing a data project</desc>
+  <rect width="640" height="360" fill="#eef6f1"/>
+  <g fill="#4f7c5b">
+    <rect x="110" y="210" width="70" height="90"/>
+    <rect x="260" y="150" width="70" height="150"/>
+    <rect x="410" y="80" width="70" height="220"/>
+  </g>
+  <polyline points="110,190 295,120 445,55 535,90" fill="none" stroke="#243b2c" stroke-width="12"/>
+</svg>

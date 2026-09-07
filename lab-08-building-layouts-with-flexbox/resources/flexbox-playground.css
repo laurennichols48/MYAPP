@@ -1,0 +1,35 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  width: min(100% - 32px, 900px);
+  margin: 40px auto;
+}
+
+.playground {
+  min-height: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  gap: 12px;
+  flex-wrap: nowrap;
+  padding: 20px;
+  border: 3px dashed #5c6b73;
+  background: #edf2f4;
+}
+
+.item {
+  flex: 0 0 150px;
+  padding: 20px;
+  border: 2px solid #6a4c93;
+  background: #eee6f7;
+}
+
+.tall {
+  min-height: 180px;
+}

@@ -1,0 +1,15 @@
+p {
+  color: navy;
+}
+
+p {
+  color: darkred;
+}
+
+.notice {
+  color: purple;
+}
+
+#featured {
+  color: darkgreen;
+}

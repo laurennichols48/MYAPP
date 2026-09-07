@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="700" viewBox="0 0 1100 700" role="img" aria-labelledby="t d">
+  <title id="t">Desktop and mobile wireframe template</title>
+  <desc id="d">Blank labeled regions for sketching a portfolio homepage at desktop and mobile sizes</desc>
+  <rect width="1100" height="700" fill="#f6f6f6"/>
+  <text x="50" y="35" font-family="Arial" font-size="22">Desktop frame</text>
+  <rect x="50" y="55" width="690" height="590" fill="white" stroke="#444" stroke-width="3"/>
+  <rect x="75" y="80" width="640" height="70" fill="#eee" stroke="#777"/>
+  <text x="95" y="122" font-family="Arial" font-size="18">Header + navigation</text>
+  <rect x="75" y="175" width="640" height="190" fill="#eee" stroke="#777"/>
+  <text x="95" y="275" font-family="Arial" font-size="18">Primary message / hero</text>
+  <rect x="75" y="390" width="305" height="170" fill="#eee" stroke="#777"/>
+  <rect x="410" y="390" width="305" height="170" fill="#eee" stroke="#777"/>
+  <text x="150" y="480" font-family="Arial" font-size="18">Section</text>
+  <text x="490" y="480" font-family="Arial" font-size="18">Section</text>
+  <rect x="75" y="580" width="640" height="40" fill="#eee" stroke="#777"/>
+  <text x="95" y="607" font-family="Arial" font-size="16">Footer</text>
+
+  <text x="805" y="35" font-family="Arial" font-size="22">Mobile frame</text>
+  <rect x="805" y="55" width="245" height="590" fill="white" stroke="#444" stroke-width="3"/>
+  <rect x="825" y="80" width="205" height="85" fill="#eee" stroke="#777"/>
+  <text x="845" y="127" font-family="Arial" font-size="16">Header</text>
+  <rect x="825" y="185" width="205" height="155" fill="#eee" stroke="#777"/>
+  <text x="845" y="265" font-family="Arial" font-size="16">Hero</text>
+  <rect x="825" y="360" width="205" height="100" fill="#eee" stroke="#777"/>
+  <rect x="825" y="480" width="205" height="100" fill="#eee" stroke="#777"/>
+  <text x="845" y="420" font-family="Arial" font-size="16">Section</text>
+  <text x="845" y="540" font-family="Arial" font-size="16">Section</text>
+  <rect x="825" y="600" width="205" height="25" fill="#eee" stroke="#777"/>
+</svg>
